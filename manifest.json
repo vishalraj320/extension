@@ -5,7 +5,7 @@
   "description": "chrome-extension added",
   "version": "1.0.0",
   "browser_action": {
-    "default_popup": "extension.html"
+    "default_popup": "index.html"
   },
   "permissions": ["activeTab"]
 }
